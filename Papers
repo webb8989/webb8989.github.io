@@ -1,0 +1,8 @@
+None have been published yet, but here is a list of some that I am working on.
+
+###1. Universal Decomposition Theory
+* **Abstract**The purpose of the present paper is to establish Universal Decomposition Theory (UDT). We begin by defining a \emph{decompositional function} as an unordered 5-tuple of information concerning a function or function-like object. A decompositional function is not necessarily a function; rather, it is used to measure the failure of an object to be a function and to track information loss, gain, and preservation.  
+
+Next, we define a \emph{universe} in the context of UDT; they model many theories in ways shown in $\S~3$ and $\S~4$. These universes are classified according to types of \emph{universe bases}, which are collections of information about the elements of the universe and the universe itself.  
+
+The main results are a series of propositions showing applications of UDT to Mochizuki's IUTT.
