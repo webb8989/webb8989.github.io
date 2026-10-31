@@ -6,3 +6,6 @@ None have been published yet, but here is a list of some that I am working on.
 Next, we define a \emph{universe} in the context of UDT; they model many theories in ways shown in $\S~3$ and $\S~4$. These universes are classified according to types of \emph{universe bases}, which are collections of information about the elements of the universe and the universe itself.  
 
 The main results are a series of propositions showing applications of UDT to Mochizuki's IUTT.
+
+###2. Topoid Theory
+* **Abstract** In the present paper we develop the theory of topoids. A topoid may be thought of as a generalized space of topological spaces. This paper will be the first in a series of papers aiming for results involving Inter Universal Teichmuller Theory. This paper will not directly have these results, but it will built theory that will hopefully lead to these results.
